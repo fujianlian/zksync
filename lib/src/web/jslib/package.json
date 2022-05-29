@@ -1,0 +1,20 @@
+{
+  "name": "jslib",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "clean": "rm -rf dist/*",
+    "build": "webpack --mode production",
+    "build-dev": "webpack -d --mode development"
+  },
+  "dependencies": {
+    "ethers": "^5.4.4",
+    "idna-uts46-hx": "^3.4.0",
+    "zksync-crypto": "^0.6.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  }
+}
