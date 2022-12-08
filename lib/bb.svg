@@ -1,0 +1,14 @@
+<svg preserveAspectRatio="xMinYMin meet" viewBox="0 0 350 350" xmlns="http://www.w3.org/2000/svg">
+    <style>.base { fill: white; font-family: serif; font-size: 14px; }</style>
+    <rect fill="black" height="100%" width="100%" />
+    <text class="base" x="10" y="20">
+        <a style="fill:#019858;">0:Sharp claws(+1)[156]</a>
+    </text>
+    <text class="base" x="10" y="40">
+        <a style="fill:#019858;">1:Resplendent Tunic(+1)[126]</a>
+    </text>
+    <text class="base" x="10" y="60">
+        <a style="fill:#0072E3;">2:Katja(+1)[283]</a>
+    </text>
+    <text class="base" x="10" y="80">totalPower/Dur:[683/0]</text>
+</svg>
